@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Hello word"
+title:  "Hello world"
 date:   2016-03-09 17:10:00 +0200
 categories: marketplace hack
 count: 0
